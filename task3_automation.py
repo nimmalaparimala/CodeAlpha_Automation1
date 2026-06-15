@@ -1,13 +1,5 @@
-# ============================================================
-#  CodeAlpha — Task 3: Task Automation with Python Scripts
-#  Includes ALL three automation ideas:
-#    A) Move .jpg files to a new folder
-#    B) Extract email addresses from a .txt file
-#    C) Scrape the title of a webpage and save it
-#  Author : Your Name
-#  Repo   : github.com/YourUsername/CodeAlpha_TaskAutomation
-# ============================================================
 
+l
 import os
 import re
 import shutil
